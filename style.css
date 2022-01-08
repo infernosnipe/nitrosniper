@@ -62,7 +62,7 @@ body{
         display: flex;
         height: 50px;
         padding: 0;
-        background: #FF0000;
+        background: red;
         border: none;
         outline: none;  
         border-radius: 5px;
